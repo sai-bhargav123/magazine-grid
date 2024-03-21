@@ -25,6 +25,9 @@ header{
     grid-column: 1/4;
     
 }
+.pic{
+    display:flex;
+    align-items: center;
 a{
     text-decoration: none;
     
