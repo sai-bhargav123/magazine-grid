@@ -27,7 +27,7 @@ header{
 }
 .pic{
     display:flex;
-    align-items: center;
+    align-items: center;}
 a{
     text-decoration: none;
     
